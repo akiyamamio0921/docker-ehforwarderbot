@@ -8,10 +8,6 @@ on:
     paths-ignore:
       - '.github/dependabot.yml'
       - 'LICENSE'
-      
-permissions:
-  contents: read
-  packages: write
 
 jobs:
   docker:
