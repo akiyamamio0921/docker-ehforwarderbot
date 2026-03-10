@@ -9,3 +9,4 @@ efb-search-msg-middleware==0.1.0
 efb-voice-recog-middleware==1.0.3
 efb-link-preview-middleware
 efb-online-middleware
+PySocks
